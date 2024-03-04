@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Alena 👋
 
+
+My Linkedin Profile: [alenarama](https://www.linkedin.com/in/alena-rama-37972523b/)
 <!--
 **alenarama/alenarama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
